@@ -1,5 +1,6 @@
 ##This is a markdown file
-* install
-* code
-* sync
-* done:)
+* Set global user email and remote repo 
+* Create local file branch
+* git add .
+* git commit
+* push
